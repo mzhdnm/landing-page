@@ -6,6 +6,12 @@
   "author": "Artem Suschev <Suschev.Artem@gmail.com>",
   "license": "MIT",
   "private": true,
+
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+
   "dependencies": {
     "eleventy": "^0.2.0"
   }
