@@ -1,0 +1,12 @@
+{
+  "name": "mzhdnm-landing",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mzhdnm/landing-page.git",
+  "author": "Artem Suschev <Suschev.Artem@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "eleventy": "^0.2.0"
+  }
+}
