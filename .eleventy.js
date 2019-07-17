@@ -14,6 +14,5 @@ module.exports = function(config) {
       'md',
       'njk',
     ],
-    passthroughFileCopy: true
   };
 };
