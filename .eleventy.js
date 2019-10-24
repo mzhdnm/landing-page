@@ -4,6 +4,7 @@ module.exports = function(config) {
   config.addPassthroughCopy('source/images');
   config.addPassthroughCopy('LICENSE.txt');
   config.addPassthroughCopy('robots.txt');
+  config.addPassthroughCopy('CNAME');
 
   return {
     dir: {
