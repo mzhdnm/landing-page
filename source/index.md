@@ -12,6 +12,6 @@ contacts:
 
   links:
     email: mzhdnm@gmail.com
-    instagram: https://instagram.com/mnkasha/
-    fb: https://facebook.com/mnkasha/
+    instagram: https://instagram.com/mnkasha
+    fb: https://facebook.com/mnkasha
     vk: https://vk.com/mnkasha
