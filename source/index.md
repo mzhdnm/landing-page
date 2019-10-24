@@ -15,3 +15,5 @@ contacts:
     instagram: https://instagram.com/mnkasha
     fb: https://facebook.com/mnkasha
     vk: https://vk.com/mnkasha
+
+GOOGLE_TRACKING_ID: UA-150842149-1
