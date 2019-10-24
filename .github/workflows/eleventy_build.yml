@@ -13,4 +13,4 @@ jobs:
         env:
           PUBLISH_DIR: dist
           PUBLISH_BRANCH: gh-pages
-          GITHUB_TOKEN: ${{ secrets.ACITONS_DEPLOY_KEY }}
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
